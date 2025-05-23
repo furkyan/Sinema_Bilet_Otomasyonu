@@ -1,5 +1,5 @@
 # SİNEMA BİLET OTOMASYON SİSTEMİ
-
+Furkan Efe Kılıç - C201120069
 
 Modern sinema işletmeleri için geliştirilmiş kapsamlı bilet yönetim sistemi.
 
